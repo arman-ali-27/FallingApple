@@ -2,7 +2,7 @@ package com.pluralsight.fruit;
 
 public class Pear implements IFruit {
 
-    private static final String NAME = "Banana";
+    private static final String NAME = "Pear";
     private static final int ROLL_MULTIPLIER = 5;
 
     @Override
